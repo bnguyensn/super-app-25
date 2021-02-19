@@ -1,6 +1,6 @@
 # AskOuija browser
 
-This application presents a new and interesting way to browse [r/AskOuija](https://reddit.com/r/askouija).
+This web app presents a new and interesting way to browse [r/AskOuija](https://reddit.com/r/askouija).
 
 ## Development
 
